@@ -413,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				DEVELOPMENT_TEAM = 69CP27GESJ;
 				INFOPLIST_FILE = DouYuZB/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -426,6 +427,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				DEVELOPMENT_TEAM = 69CP27GESJ;
 				INFOPLIST_FILE = DouYuZB/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -512,6 +514,7 @@
 				0410C1AE2236C8540029087F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0410C1AF2236C8540029087F /* Build configuration list for PBXNativeTarget "DouYuZBTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +523,7 @@
 				0410C1B12236C8540029087F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0410C1B22236C8540029087F /* Build configuration list for PBXNativeTarget "DouYuZBUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +532,7 @@
 				0410C1B42236C8540029087F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
